@@ -1,4 +1,4 @@
-# Phenotype Prediction in HDLSS data from European Sea Bass
+# Phenotype Prediction in HDLSS European Sea Bass Data
 Links to scripts, tools and data to reproduce the experiments in the paper \
 "Phenotype Prediction of High Dimensional, Low Sample Size European Sea Bass Data using Machine Learning"\
 Giovanni Faldani , Enrico Rossignolo , Eleonora Signor , Alessio Longo , Sara Faggion , Luca Bargelloni , Matteo Comin and Cinzia Pizzi 
