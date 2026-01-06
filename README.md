@@ -7,7 +7,7 @@ currently under revision for Frontiers in Bioinformatics
 
 ## Datasets
 
-The datasets analyzed in this study refer to the study Mukiibi et al. (2025) and can be retrieved from the associated repository:\ 
+The datasets analyzed in this study refer to the study Mukiibi et al. (2025) and can be retrieved from the associated repository: 
 
 Genotypes and phenotypes have been submitted to the Europeans Variant Archive (EVA). \
 Whole-genome raw sequencing data have been uploaded to the NCBI Short Read Archive (SRA) under BioProject accession: \
